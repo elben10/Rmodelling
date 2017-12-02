@@ -8,6 +8,14 @@
 \description{
 The package provides a set of functions for modelling.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/elben10/Rmodelling}
+  \item Report bugs at \url{https://github.com/elben10/Rmodelling/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Jakob Jul Elben \email{elbenjakobjul@gmail.com}
 
