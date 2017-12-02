@@ -1,0 +1,12 @@
+Package: Rmodelling
+Version: 0.0.0.9000
+Title: A new approach to modelling in R
+Description: The package provides a set of functions for modelling.
+Authors@R: person("Jakob Jul", "Elben", , "elbenjakobjul@gmail.com", c("aut", "cre"))
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
+RoxygenNote: 6.0.1.9000
+URL: https://github.com/elben10/Rmodelling
+BugReports: https://github.com/elben10/Rmodelling/issues
